@@ -231,9 +231,6 @@ section.home {
     opacity: 0;
 }
 
-
-/* travel section starts here  */
-
 .travel .container {
     width: 100%;
     display: flex;
@@ -266,9 +263,6 @@ section.home {
     color: #666;
 }
 
-/* travel section ends here  */
-
-/* destination section starts here  */
 .destinations {
     width: 100%;
     padding-top: 4rem;
@@ -367,7 +361,6 @@ section.home {
     padding-bottom: 2rem;
 }
 
-
 .featured .gallery .box:first-child h2 {
     margin-bottom: .5rem;
 }
@@ -443,9 +436,7 @@ section.home {
     transform: translate(0, 100px);
     opacity: 0;
 }
-/* featured section ends here  */
 
-/* feedback section starts here  */
 .feedback {
     background: url("section-background.jpg");
     background-position: center;
@@ -535,9 +526,6 @@ section.home {
     transform: translate(0, 100px);
     opacity: 0;
 }
-/* feedback section ends here  */
-
-/* article section starts here  */
 
 .article {
     padding-top: 3rem;
@@ -632,9 +620,6 @@ section.home {
     opacity: 0;
     transition: all .4s ease-out;
 }
-/* article section ends here  */
-
-/* footer section starts here  */
 
 footer {
     padding:  1rem;
@@ -742,8 +727,7 @@ footer .footer .copyright a {
     margin-left: 1rem;
     text-align: center;
 }
-/* footer section ends here  */
-/* media section starts here  */
+
 @media (max-width: 1020px) {
     html {
         font-size: 85%;
@@ -881,4 +865,3 @@ footer .footer .copyright a {
         font-size: 1.1rem;
     }
 }
-/* media section starts here  */
